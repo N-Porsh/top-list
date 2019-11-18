@@ -1,0 +1,14 @@
+.container {
+    max-width: 960px;
+}
+table th:last-child, td:last-child {
+    text-align: center;
+}
+footer {
+    padding: 3.5rem 0;
+    color: #999;
+    text-align: center;
+    border-top: .05rem solid #e5e5e5;
+}
+
+
